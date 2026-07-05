@@ -22,36 +22,6 @@ Luna is not a magic tipster. Luna is a fun research assistant that helps you slo
 
 ---
 
-## GitHub discoverability 🔎
-
-Luna is a public football goals research project for people searching GitHub for:
-
-- football goals bot
-- football goals research bot
-- Telegram football bot
-- soccer goals scanner
-- goal market research
-- football betting research tool
-- sports analytics bot
-- football match scanner
-- Over 1.5 goals research
-- Over 2.5 goals research
-- BTTS research
-- Flashscore research checklist
-- responsible betting tools
-- Telegram sports alerts
-- goal-friendly football games
-
-Suggested GitHub repository topics:
-
-`football` · `football-bot` · `telegram-bot` · `sports-analytics` · `goal-markets` · `soccer` · `betting-research` · `responsible-betting` · `flashscore` · `over-25-goals`
-
-Suggested repository description:
-
-> Luna is a football goals research bot that helps Telegram users find goal-friendly games and review Over 1.5 / Over 2.5 goal-market context responsibly.
-
----
-
 ## What Luna tells you 📈
 
 Luna focuses on football games where the match context could point toward goal action.
