@@ -1,0 +1,14 @@
+Repo description:
+Luna is a football goals research bot that helps Telegram users find goal-friendly games and review Over 1.5 / Over 2.5 goal-market context responsibly.
+
+Suggested GitHub topics:
+football
+football-bot
+telegram-bot
+sports-analytics
+goal-markets
+soccer
+betting-research
+responsible-betting
+flashscore
+over-25-goals

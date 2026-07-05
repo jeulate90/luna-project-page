@@ -22,6 +22,36 @@ Luna is not a magic tipster. Luna is a fun research assistant that helps you slo
 
 ---
 
+## GitHub discoverability 🔎
+
+Luna is a public football goals research project for people searching GitHub for:
+
+- football goals bot
+- football goals research bot
+- Telegram football bot
+- soccer goals scanner
+- goal market research
+- football betting research tool
+- sports analytics bot
+- football match scanner
+- Over 1.5 goals research
+- Over 2.5 goals research
+- BTTS research
+- Flashscore research checklist
+- responsible betting tools
+- Telegram sports alerts
+- goal-friendly football games
+
+Suggested GitHub repository topics:
+
+`football` · `football-bot` · `telegram-bot` · `sports-analytics` · `goal-markets` · `soccer` · `betting-research` · `responsible-betting` · `flashscore` · `over-25-goals`
+
+Suggested repository description:
+
+> Luna is a football goals research bot that helps Telegram users find goal-friendly games and review Over 1.5 / Over 2.5 goal-market context responsibly.
+
+---
+
 ## What Luna tells you 📈
 
 Luna focuses on football games where the match context could point toward goal action.
@@ -97,32 +127,7 @@ You still decide if the game is worth your money.
 
 ## Simple research checklist 🔍
 
-Before placing anything, check:
-
-### Team form
-- Are both teams scoring recently?
-- Are they conceding?
-- Are they playing open games?
-
-### Match context
-- Is it a must-win match?
-- Is one team likely to attack early?
-- Is there a reason for a slow start?
-
-### Home and away pattern
-- Does the home team score at home?
-- Does the away team concede away?
-- Are away games usually open or defensive?
-
-### Lineups
-- Are the main attackers starting?
-- Is the penalty taker playing?
-- Are important defenders missing?
-
-### Odds and market
-- Is the price still worth it?
-- Did the odds move too much?
-- Are you adding legs just to reach a bigger payout?
+Before placing anything, check team form, match context, home and away patterns, lineups, odds movement, and whether the market still makes sense.
 
 ---
 
@@ -205,15 +210,7 @@ Languages we want to support better:
 
 ## Who is Luna for? 👤
 
-Luna is for football fans who:
-
-- Like goal markets
-- Want fast match discovery
-- Want cleaner research notes
-- Want Telegram alerts
-- Want to avoid random blind slips
-- Want a fun bot with a football personality
-- Understand that betting has risk
+Luna is for football fans who like goal markets, want fast match discovery, want cleaner research notes, want Telegram alerts, and understand that betting has risk.
 
 Luna is not for people looking for fake “100% sure wins.”
 
