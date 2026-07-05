@@ -10,13 +10,17 @@ Every day, Luna can send clean Telegram messages with goal-focused match ideas. 
 
 That is the point: Luna is not here to force a bet every day. She is here to help you spot games that could have goals, avoid weak picks, and make faster research decisions before you build a slip.
 
-**Join the Telegram group:** https://t.me/elite_sports_better
+**Telegram is for the slips and alerts. Discord is for discussion, questions, match talk, and community channels.**
+
+- **Join the Telegram group:** https://t.me/elite_sports_better
+- **Join the Discord community:** https://discord.gg/KERTwmJF
 
 ---
 
 ## Navigation 🧭
 
 - [What is Luna?](#what-is-luna)
+- [Telegram and Discord](#telegram-and-discord-)
 - [What you get in Telegram](#what-you-get-in-telegram-)
 - [How Luna helps with bet-slip research](#how-luna-helps-with-bet-slip-research-)
 - [Example daily messages](#example-daily-messages-)
@@ -31,6 +35,7 @@ That is the point: Luna is not here to force a bet every day. She is here to hel
 ## Quick links 🚀
 
 - **Join the Telegram group:** https://t.me/elite_sports_better
+- **Join the Discord community:** https://discord.gg/KERTwmJF
 - **Main Luna page:** https://www.nordvaekst.net/luna/
 - **PDF / research guide:** https://www.nordvaekst.net/luna/pdf/
 - **Support Luna:** https://www.nordvaekst.net/luna/support/
@@ -48,6 +53,37 @@ Luna is not a magic tipster. Luna is a fun research assistant that helps you slo
 
 ---
 
+## Telegram and Discord 💬
+
+Luna now uses two community spaces:
+
+### Telegram 📲
+
+Telegram is the clean alert channel. This is where users receive Luna messages, goal-focused shortlist ideas, bet-slip research notes, and no-bet notices.
+
+Telegram group:
+
+https://t.me/elite_sports_better
+
+### Discord 🧵
+
+Discord is the discussion space. It is better for community chat because channels keep topics cleaner, almost like Slack.
+
+Use Discord for:
+
+- Match discussion
+- Questions about Luna alerts
+- Community opinions
+- Research notes
+- Talking through possible slips
+- Sharing ideas without flooding Telegram
+
+Discord invite:
+
+https://discord.gg/KERTwmJF
+
+---
+
 ## What you get in Telegram 📲
 
 Inside the Telegram group, Luna can help with:
@@ -61,10 +97,6 @@ Inside the Telegram group, Luna can help with:
 - 🧾 Updates that are easy to read on mobile
 
 Some messages may look like a small match shortlist. Some may include possible goal angles. Some may simply say that nothing is worth forcing today.
-
-Telegram group:
-
-https://t.me/elite_sports_better
 
 ---
 
@@ -137,8 +169,9 @@ Use it like this:
 3. Look at recent scores, home/away form, lineups, and motivation.
 4. Ask yourself: **Does the match script support goals?**
 5. Keep the slip small.
-6. Skip the game if the risk is not clear.
-7. Never chase if the first idea loses.
+6. Ask questions or discuss the match in Discord.
+7. Skip the game if the risk is not clear.
+8. Never chase if the first idea loses.
 
 Luna helps you find the game.  
 You still decide if the game is worth your money.
@@ -228,6 +261,7 @@ Planned improvements:
 - Better support pages
 - More transparent no-bet warnings
 - Improved daily goal shortlist
+- Better Discord community structure
 
 Languages we want to support better:
 
@@ -276,8 +310,9 @@ https://www.nordvaekst.net/
 
 Luna is here to make football goal research more fun, faster, and easier to understand.
 
-If you like goal-filled games, Telegram alerts, and smart research before betting, join the group:
+If you like goal-filled games, Telegram alerts, and community discussion, join both spaces:
 
-https://t.me/elite_sports_better
+- Telegram alerts: https://t.me/elite_sports_better
+- Discord discussion: https://discord.gg/KERTwmJF
 
-**Meet Luna. Get daily goal alerts. Research smarter. Bet responsibly.** 🤖⚽🔥
+**Meet Luna. Get daily goal alerts. Discuss in Discord. Research smarter. Bet responsibly.** 🤖⚽🔥
