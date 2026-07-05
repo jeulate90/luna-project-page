@@ -1,35 +1,37 @@
-# Luna Project README
+# Luna Project README 🤖⚽
 
-Luna is a football goals research bot that scans fixtures and sends clean Telegram summaries.
+![Meet Luna](luna-nordvaekst-banner.png)
 
-It is built for people who want more context before building a slip - not fake guarantees, hype, or "sure win" promises.
+Luna is a football goals bot powered by NordVaekst.net.
+
+She tells you about football games that could have a lot of goals 🔥
 
 ## What Luna does
 
-- Scans fixtures for goal-market research context.
-- Sends clean Telegram summaries.
-- Helps users decide what to review.
-- Avoids repeated spam of the same main slip.
-- Includes responsible-betting reminders.
+- ⚽ Goal-focused alerts
+- 🔥 Big-match vibes
+- 🤖 Bot-powered football research
+- 📈 Goal-focused insights
+- ✨ Fun Telegram summaries
 
-## What Luna is not
+## Join
 
-- Not guaranteed profit.
-- Not financial advice.
-- Not a reason to chase losses.
-- Not a replacement for your own judgment.
+Telegram group:
+https://t.me/elite_sports_better
 
-## Support
+Main page:
+https://www.nordvaekst.net/luna/
+
+PDF:
+https://www.nordvaekst.net/luna/pdf/
+
+## Support Luna 💚
 
 Optional donation:
 
 - Revolut username: @eulate90
 - Revolut link: https://revolut.me/eulate90
 
-## Join
-
-- Telegram group: https://t.me/elite_sports_better
-- Main page: https://www.nordvaekst.net/luna/
-- PDF: https://www.nordvaekst.net/luna/pdf/
+## Responsible betting
 
 18+ only. Betting involves risk. No guaranteed wins. Never chase losses.
