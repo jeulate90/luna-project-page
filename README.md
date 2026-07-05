@@ -2,13 +2,29 @@
 
 ![Meet Luna](luna-nordvaekst-banner.png)
 
-## What is Luna?
+## Daily football goal alerts in Telegram 📲
 
-**Luna** is a football goals research bot powered by **NordVaekst.net**.
+**Luna** is a Telegram football goals bot powered by **NordVaekst.net**.
 
-She helps people find and review football games that **could have a lot of goals**. Luna is made for goal-focused football fans who want a faster way to spot exciting matches, goal-friendly patterns, and games worth checking before building a slip.
+Every day, Luna can send clean Telegram messages with goal-focused match ideas. Some days she may surface potential bet-slip angles. Other days she may send a **no-bet notice** when the matches look too weak or too risky.
 
-Luna is not a magic tipster. Luna is a fun research assistant that helps you slow down, compare information, and avoid building slips completely blind.
+That is the point: Luna is not here to force a bet every day. She is here to help you spot games that could have goals, avoid weak picks, and make faster research decisions before you build a slip.
+
+**Join the Telegram group:** https://t.me/elite_sports_better
+
+---
+
+## Navigation 🧭
+
+- [What is Luna?](#what-is-luna)
+- [What you get in Telegram](#what-you-get-in-telegram-)
+- [How Luna helps with bet-slip research](#how-luna-helps-with-bet-slip-research-)
+- [Example daily messages](#example-daily-messages-)
+- [Simple research checklist](#simple-research-checklist-)
+- [What Luna is not](#what-luna-is-not-)
+- [Support Luna](#why-support-luna-)
+- [Roadmap](#roadmap-)
+- [Responsible betting](#responsible-betting-)
 
 ---
 
@@ -22,7 +38,37 @@ Luna is not a magic tipster. Luna is a fun research assistant that helps you slo
 
 ---
 
-## What Luna tells you 📈
+## What is Luna?
+
+**Luna** is a football goals research bot built for people who like goal markets.
+
+She helps people find and review football games that **could have a lot of goals**. Luna is made for goal-focused football fans who want a faster way to spot exciting matches, goal-friendly patterns, and games worth checking before building a slip.
+
+Luna is not a magic tipster. Luna is a fun research assistant that helps you slow down, compare information, and avoid building slips completely blind.
+
+---
+
+## What you get in Telegram 📲
+
+Inside the Telegram group, Luna can help with:
+
+- ⚽ Daily goal-focused match alerts
+- 🔥 Big-match vibes and high-interest games
+- 🧠 Short research context before you build a slip
+- 📌 Cleaner shortlist thinking
+- 🚫 No-bet warnings when the slate looks weak
+- 💚 Responsible betting reminders
+- 🧾 Updates that are easy to read on mobile
+
+Some messages may look like a small match shortlist. Some may include possible goal angles. Some may simply say that nothing is worth forcing today.
+
+Telegram group:
+
+https://t.me/elite_sports_better
+
+---
+
+## How Luna helps with bet-slip research 🧾
 
 Luna focuses on football games where the match context could point toward goal action.
 
@@ -42,6 +88,28 @@ The goal is simple:
 
 ---
 
+## Example daily messages 📨
+
+### Goal scan alert
+
+Luna may send a message when a match looks interesting for goal research:
+
+- Match name
+- Goal-market angle
+- Why the game may be interesting
+- What to double-check before adding it to a slip
+- Responsible staking reminder
+
+### No-bet notice
+
+Luna may also send a no-bet message:
+
+> No strong goal spot today. Do not force weak games. Protect the bankroll and wait for a cleaner slate.
+
+That is a feature, not a bug. A no-bet day can save money.
+
+---
+
 ## What kind of games is Luna built for? 🌍
 
 Luna is useful when you are looking for:
@@ -55,24 +123,6 @@ Luna is useful when you are looking for:
 - Situations where a game looks exciting, but you still need to check risk
 
 Luna is especially useful for people who like goal markets more than pure winner markets.
-
----
-
-## What you get in Telegram 📲
-
-Inside the Telegram group, Luna can help with:
-
-- ⚽ Goal-focused match alerts
-- 🔥 High-interest games
-- 🧠 Short research context
-- 📌 Cleaner shortlist thinking
-- 🚫 No-bet warnings
-- 💚 Responsible betting reminders
-- 🧾 Updates that are easy to read on mobile
-
-Telegram group:
-
-https://t.me/elite_sports_better
 
 ---
 
@@ -97,7 +147,16 @@ You still decide if the game is worth your money.
 
 ## Simple research checklist 🔍
 
-Before placing anything, check team form, match context, home and away patterns, lineups, odds movement, and whether the market still makes sense.
+Before placing anything, check:
+
+- Are both teams scoring recently?
+- Are they conceding?
+- Are they playing open games?
+- Is the match important enough for teams to attack?
+- Are the main attackers starting?
+- Are important defenders missing?
+- Did the odds move too much?
+- Are you adding extra legs only to chase a bigger payout?
 
 ---
 
@@ -221,4 +280,4 @@ If you like goal-filled games, Telegram alerts, and smart research before bettin
 
 https://t.me/elite_sports_better
 
-**Meet Luna. Find goal-friendly games. Research smarter. Bet responsibly.** 🤖⚽🔥
+**Meet Luna. Get daily goal alerts. Research smarter. Bet responsibly.** 🤖⚽🔥
