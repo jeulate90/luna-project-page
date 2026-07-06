@@ -107,7 +107,6 @@ Inside the Telegram group, Luna can help with:
 - 📌 Cleaner shortlist thinking
 - 🚫 No-bet warnings when the slate looks weak
 - 📘 The free companion eBook/PDF guide
-- 💚 Responsible betting reminders
 - 🧾 Updates that are easy to read on mobile
 
 Some messages may look like a small match shortlist. Some may include possible goal angles. Some may simply say that nothing is worth forcing today.
@@ -126,7 +125,6 @@ She helps surface things like:
 - 🧠 Goal-market research angles
 - 🚦 Warnings when a match looks risky
 - 🧾 Cleaner Telegram summaries
-- 🛑 Reminders to avoid chasing bad slips
 
 The goal is simple:
 
