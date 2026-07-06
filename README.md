@@ -329,6 +329,6 @@ If you like goal-filled games, Telegram alerts, a practical companion guide, and
 - Discord discussion: https://discord.gg/KERTwmJF
 - **Optional donation** Revolut link: https://revolut.me/eulate90 -  Revolut username: @eulate90
 
-Every bit of support helps Luna grow.
+💚Every bit of support helps Luna grow.💚
 
-**Meet Luna. Get daily goal alerts. Use the companion guide. Discuss in Discord. Research smarter. Bet responsibly.** 🤖⚽🔥
+Use the companion guide. Discuss in Discord. Research smarter. Bet responsibly.** 🤖⚽🔥
