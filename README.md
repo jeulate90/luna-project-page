@@ -15,6 +15,13 @@ That is the point: Luna is not here to force a bet every day. She is here to hel
 - **Join the Telegram group:** https://t.me/elite_sports_better
 - **Join the Discord community:** https://discord.gg/KERTwmJF
 
+- Optional donation
+
+    Revolut username: @eulate90
+    Revolut link: https://revolut.me/eulate90
+
+Every bit of support helps Luna grow.
+
 ---
 
 ## Free companion eBook/PDF guide 📘
