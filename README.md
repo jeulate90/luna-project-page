@@ -31,11 +31,18 @@ It is **not** a guarantee sheet. It is a companion guide for people who want to 
 
 ---
 
+## Public repository note 🔒
+
+Luna's full research engine and Telegram automation backend are private. This repository contains the public landing page and project information only.
+
+---
+
 ## Navigation 🧭
 
 - [What is Luna?](#what-is-luna)
 - [Telegram and Discord](#telegram-and-discord-)
 - [Free companion guide](#free-companion-ebookpdf-guide-)
+- [Public repository note](#public-repository-note-)
 - [What you get in Telegram](#what-you-get-in-telegram-)
 - [How Luna helps with bet-slip research](#how-luna-helps-with-bet-slip-research-)
 - [Example daily messages](#example-daily-messages-)
