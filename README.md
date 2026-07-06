@@ -4,7 +4,7 @@
 
 ## Daily football goal alerts in Telegram 📲
 
-**Luna** is a Telegram football goals bot powered by **NordVaekst.net**.
+**Luna** is a FREE Telegram football goals bot powered by **NordVaekst.net**.
 
 Every day, Luna can send clean Telegram messages with goal-focused match ideas. Some days she may surface potential bet-slip angles. Other days she may send a **no-bet notice** when the matches look too weak or too risky.
 
